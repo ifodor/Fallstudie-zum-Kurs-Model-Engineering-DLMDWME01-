@@ -17,7 +17,6 @@ precise_model_path = os.path.join(current_dir, '../models/precise_model.pkl')
 
 # Sicherstellen, dass die Verzeichnisse existieren
 os.makedirs(processed_data_dir, exist_ok=True)
-os.makedirs(os.path.join(data_dir, 'interim'), exist_ok=True)
 os.makedirs(os.path.join(data_dir, 'final'), exist_ok=True)
 os.makedirs(os.path.join(current_dir, '../models'), exist_ok=True)
 
