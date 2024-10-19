@@ -1,5 +1,4 @@
-# Projektname: [Automatisierung des Bereitschaftsdienstplans für Einsatzfahrende mithilfe eines Vorhersagemodells
-Fallstudie]
+# Projektname: [Automatisierung des Bereitschaftsdienstplans für Einsatzfahrende mithilfe eines Vorhersagemodells]
 
 ## 1. Einführung
 Der Berliner Rotkreuz-Rettungsdienst steht vor der Herausforderung, seinen Bereitschaftsdienst optimal zu gestalten. Bisher wurde eine konstante Anzahl von 90 Bereitschaftsfahrern pro Tag eingeplant, was zu ineffizienter Ressourcennutzung führen kann. Ziel des Projekts ist die Entwicklung eines Vorhersagemodells für den Berliner Rotkreuz-Rettungsdienst, das auf Tagesbasis die Anzahl der benötigten Einsatzfahrenden im Bereitschaftsdienst effizient abschätzt. Dieses Modell soll die bisherige statische Planung mit einer fixen Anzahl von Bereitschaftsfahrern durch eine dynamische, bedarfsgerechte Planung ersetzen.
