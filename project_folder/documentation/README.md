@@ -48,7 +48,7 @@ Die **Präsentationsfolien** enthalten eine Zusammenfassung des Projekts, einsch
 - Modellentwicklung und Evaluierungsergebnisse
 - Fazit und Empfehlungen
 
-Die Datei kann [hier öffnen](./documentation/presentation_slides.pdf).
+Die Datei kann [hier öffnen](./presentation_slides.pdf).
 
 ---
 
