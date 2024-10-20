@@ -48,7 +48,7 @@ Die **Präsentationsfolien** enthalten eine Zusammenfassung des Projekts, einsch
 - Modellentwicklung und Evaluierungsergebnisse
 - Fazit und Empfehlungen
 
-Die Datei kann [hier öffnen](.documentation/DLMDWME01_Fodor_32112241_Vorhersagemodell_f%C3%BCr_den_DRK-Bereitschaftsdienst.pdf).
+Die Datei kann [hier öffnen](.documentation/presentation_slides.pdf).
 
 
 ---
