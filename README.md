@@ -12,20 +12,32 @@ Eine Beschreibung der verwendeten Daten, ihrer Herkunft und wie sie für das Mod
 Eine Übersicht der Verzeichnisstruktur des Projekts:
 
 project_folder/
+│
 ├── data/
 │   ├── raw_data/
+│   │   └── sickness_table.csv
 │   ├── processed_data/
+│   │   └── preprocessed_data.csv
+│
 ├── notebooks/
-│   ├── 01_data_exploration.ipynb
+│   ├── 01_data_analysis.ipynb
 │   ├── 02_feature_engineering.ipynb
-│   ├── 03_model_building.ipynb
-│   └── 04_model_evaluation.ipynb
+│   ├── 03_baseline_model.ipynb
+│   └── 04_fortgeschrittenes_model.ipynb
+│   └── 05_model_evaluation.ipynb
 │   └── GUI.ipynb
+│
 ├── models/
 │   ├── baseline_model.pkl
-│   └── final_model.pkl
-├── visualizations/
-└── README.md
+│   └── precise_model.pkl
+│
+├── documentation/
+│   ├── project_plan.md
+│   ├── data_quality_report.md
+│   ├── model_evaluation_report.md
+│   └── presentation_slides.pdf
+│
+├── visualization/
 
 # Präsentationsfolien
 
